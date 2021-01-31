@@ -1,4 +1,3 @@
-# Amazon Vine Analysis Challenge
 # Amazon Vine Analysis
 
 ## Overview of the Analysis
